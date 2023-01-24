@@ -1,0 +1,11 @@
+1. Initialize
+	cd to workspace on computer
+	git init
+	git remote add origin github_link
+	( git remote add origin https://github.com/tschied/sdetu-training.git )
+
+2. Push code to github
+	git add -A
+	git commit -m "message here"
+	git push -u origin master
+	*git status
