@@ -1,0 +1,6 @@
+1. create a new system variable:
+	JAVA_HOME
+	C:\Program Files\Java\jdk-19
+
+2. modify path
+	add C:\Program Files\Java\jdk-19\bin

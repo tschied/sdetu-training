@@ -1,0 +1,14 @@
+0. write java code and respect: file name = class name
+
+1. in command prompt navigate to
+	Y:\Arbeit\d-fine\Kurse\Java - Udemy
+
+2. convert java into byte code:
+	javac Helloworld.java
+
+   this creates Helloworld.class
+
+3. actually run programm
+	java Helloworld
+
+   this runs the class
